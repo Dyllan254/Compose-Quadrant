@@ -1,0 +1,1 @@
+This app displays the information about Text, Imgae, Row and Column Composables. The screen is divided into four quadrants. Each quadrant provides the name of a Composable function and describes it in one sentence.
